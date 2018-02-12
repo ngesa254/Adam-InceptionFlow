@@ -1,4 +1,4 @@
-# InceptionFlow IoT Computer Vision Using Inception V3
+# Adam InceptionFlow IoT Computer Vision Using Inception V3
 
 ![InceptionFlow IoT Computer Vision Using Inception V3](images/main/InceptionFlow.png)  
 
